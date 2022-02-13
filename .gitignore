@@ -1,0 +1,12 @@
+output
+*.out
+*.vcd
+
+# vivado
+*.jou
+*.log
+.Xil
+xvlog*
+*wdb
+xelab*
+xsim*
